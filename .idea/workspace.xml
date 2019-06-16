@@ -1,26 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc09031e-560f-4782-a6ea-a624eae259c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/html1-4/5.11/01 html.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.11/02 htmltitle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.11/03 html骨架.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.11/04 标题标签.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.11/05 气温案例.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.11/06 divspan.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.11/07 文本格式化标签.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.11/08 属性.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.11/09 图像.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.11/10 链接.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.11/12 base标签.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.11/13 特殊字符.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.11/14 绝对路径.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.11/15 无序列表.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.12/10 链接.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.12/12 base标签.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.12/13 特殊字符.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.12/14 绝对路径.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html1-4/5.12/15 无序列表.html" beforeDir="false" />
+    <list default="true" id="fc09031e-560f-4782-a6ea-a624eae259c0" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/html5新增标签/02html5中的语义标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html5新增标签/03html5中的语义标签兼容性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html5新增标签/js/html5shiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html5新增标签/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/adv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/br.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/case.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/case1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/fdj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/images/cooperation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/pro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/pro1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/ser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/tb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/top_tu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/我们的服务.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/新版首页.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/image/新版首页.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/云道页面/子绝父相.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/css/test1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/css/test2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/Read Me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/demo-files/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/demo-files/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/Read Me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/demo-files/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/demo-files/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/ie7/ie7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/ie7/ie7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/ad-l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/ad-r.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/computer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/erweima.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/ico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/ico_footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/ico_service.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/no_login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/r.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/sprite-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/sprite_fs@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/sprite_userinfo@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/super.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/toolbars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/images/top.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/仿京东首页/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html5新增标签/什么是html5.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5新增标签/01什么是html5.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,18 +102,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html5新增标签/03html5中的语义标签兼容性.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="17" selection-start-line="17" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/html5新增标签/04HTML5表单的新增type属性.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,32 +139,24 @@
         <option value="$PROJECT_DIR$/html1-4/5.11/01 html.html" />
         <option value="$PROJECT_DIR$/html1-4/5.11/02 html.html" />
         <option value="$PROJECT_DIR$/html1-4/5.11/02 htmltitle.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/HMTL-Learning.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/html5新增标签/什么是html5.html" />
+        <option value="$PROJECT_DIR$/2.html中的语义标签.html" />
+        <option value="$PROJECT_DIR$/html5新增标签/02html5中的语义标签.html" />
+        <option value="$PROJECT_DIR$/html5新增标签/03html5中的语义标签兼容性.html" />
+        <option value="$PROJECT_DIR$/html5新增标签/04HTML5表单的新增type属性.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="92" />
-    <option name="y" value="24" />
-    <option name="width" value="977" />
-    <option name="height" value="673" />
+    <option name="x" value="843" />
+    <option name="width" value="522" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,20 +167,31 @@
             <path>
               <item name="HMTL-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="HMTL-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="html1-4" type="462c0819:PsiDirectoryNode" />
+              <item name="html5新增标签" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/html5新增标签" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\FrontEndProject\HMTL-Learning\html5新增标签" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\FrontEndProject\HMTL-Learning\html5新增标签" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,6 +216,8 @@
       <option name="presentableId" value="Default" />
       <updated>1560521948912</updated>
       <workItem from="1560521950101" duration="892000" />
+      <workItem from="1560523025983" duration="558000" />
+      <workItem from="1560562312203" duration="10278000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560522205854</created>
@@ -136,22 +226,39 @@
       <option name="project" value="LOCAL" />
       <updated>1560522205854</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1560523103639</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560523103639</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1560523384736</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560523384736</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1560667557908</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560667557910</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="892000" />
+    <option name="totallyTimeSpent" value="11728000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="92" y="24" width="977" height="673" extended-state="0" />
+    <frame x="843" y="0" width="522" height="728" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24920128" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.48347107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -159,6 +266,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -172,35 +283,45 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html1-4/5.11/05 气温案例.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html1-4/5.11/01 html.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html1-4/5.11/03 html骨架.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html1-4/5.11/02 htmltitle.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/html1-4/5.11/05 气温案例.html" />
+    <entry file="file://$PROJECT_DIR$/html1-4/5.11/01 html.html" />
+    <entry file="file://$PROJECT_DIR$/html1-4/5.11/03 html骨架.html" />
+    <entry file="file://$PROJECT_DIR$/html1-4/5.11/02 htmltitle.html" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="22">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html5新增标签/02html5中的语义标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html5新增标签/01什么是html5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html5新增标签/03html5中的语义标签兼容性.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" selection-start-line="17" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html5新增标签/04HTML5表单的新增type属性.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
