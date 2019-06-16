@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML5表单新增事件</title>
+</head>
+<body>
+<form action="">
+    用户名：<input type="text" name="userName" id="userName">
+    <br>
+    电话：<input type="tel" id="telNum" pattern="^1\d{10}$">
+    <br>
+    <input type="submit">
+</form>
+<script>
+/*oninput:监听指定元素内容的改变:只要内容发生改变,就会
+触发这个事件*/
+    document.getElementById("userName").oninput=function(){
+        console.log("oninput"+this.value);
+    };
+/*
+* onkeyup:键盘弹起时触发，每一个按键都会触发一次
+* 注意onkeyup和oninput的区别，在输入时完全采用鼠标操作复制粘贴时
+* 不会触发onkeyup，但是会触发oninput.
+* */
+document.getElementById("userName").onkeyup=function() {
+    console.log("onkeyup"+ this.value);
+}
+/*
+* oninvalid:当验证不通过时触发
+* setCustomValidity:设置默认的提示信息
+* */
+document.getElementById("telNum").oninvalid=function(){
+    this.setCustomValidity("please input correct tel number");
+}
+</script>
+</body>
+</html>
