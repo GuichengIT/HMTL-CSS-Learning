@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HYML5中新增的比表单type属性</title>
+</head>
+<body>
+<form action="">
+    用户名：<input type="text" name="userName"><br>
+    密码：<input type="password"><br>
+<!--    email提供了默认的电子邮箱的完整验证，要求必须包含@符号同时必须包含服务器的名称，
+如果不能满足验证，则会组织当前的数据提交-->
+    邮箱：<input type="email"><br>
+<!--    tel：不是用来进行验证的，本质目的是为了能够在移动端弹出数字键盘，意味着数字键盘只能输入数字
+如何查看效果，通过qq发送文件在手机端接收，使用手机浏览器来查看-->
+    电话： <input type="tel"><br>
+<!--    url：验证输入合法的网址，必须包含http-->
+    网址：<input type="url"><br>
+<!--    num:只能输入数字,小数点是可以的
+可以设置最大值和最小值和默认值
+max,min,value-->
+    数量：<input type="text" max="10" min="5" value="7"><br>
+<!--    search：可以提供更人性化的输入体验，比如有删除小叉号-->
+    请输入商品名称：<input type="search"><br>
+<!--    range：范围，可设置最大最小默认，调音量时常用-->
+    范围：<input type="range"><br>
+<!--    color：选取颜色-->
+    颜色：<input type="color"><br>
+<!--    日期时间相关-->
+<!--    time:时分秒-->
+<!--    date：年月日-->
+    时间：<input type="time"><br>
+    日期：<input type="date"><br>
+<!--    日期时间结合-->
+<!--    datetime：大部分浏览器都不支持datetime，苹果下面的safair支持-->
+    日期时间：<input type="datetime"><br>
+<!--    datetimelocal大部分浏览器是支持的-->
+    日期时间：<input type="datetime-local"><br>
+<!--    month-->
+    月份：<input type="month"><br>
+<!--    week-->
+    星期：<input type="week"><br>
+    <!-- 提交-->
+    <input type="submit"><br>
+</form>
+
+</body>
+</html>
