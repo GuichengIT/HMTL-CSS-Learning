@@ -1,96 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc09031e-560f-4782-a6ea-a624eae259c0" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/html5新增标签/02html5中的语义标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html5新增标签/03html5中的语义标签兼容性.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html5新增标签/js/html5shiv.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html5新增标签/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/adv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/br.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/case.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/case1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/fdj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/icon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/icon3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/images/cooperation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/pro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/pro1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/ser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/tb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/top_tu.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/我们的服务.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/新版首页.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/image/新版首页.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/云道页面/子绝父相.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/css/test1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/css/test2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/Read Me.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/demo-files/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/demo-files/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/Read Me.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/demo-files/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/demo-files/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/selection.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/icomoon/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/ie7/ie7.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/ie7/ie7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/selection.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/icomoon/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/ad-l.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/ad-r.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/computer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/erweima.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/ico.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/ico_footer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/ico_service.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/l.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/mobile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/no_login.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/pic1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/pic2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/r.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/sprite-search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/sprite_fs@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/sprite_userinfo@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/super.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/toolbars.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/images/top.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/仿京东首页/test.html" afterDir="false" />
+    <list default="true" id="fc09031e-560f-4782-a6ea-a624eae259c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/html5新增标签/05HTML5表单新增事件.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5新增标签/什么是html5.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5新增标签/01什么是html5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html5新增标签/04HTML5表单的新增type属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5新增标签/04HTML5表单的新增type属性.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -106,17 +20,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html5新增标签/03html5中的语义标签兼容性.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="374">
               <caret line="17" selection-start-line="17" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html5新增标签/04HTML5表单的新增type属性.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="440">
+              <caret line="71" column="7" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html5新增标签/05HTML5表单新增事件.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -144,12 +67,13 @@
         <option value="$PROJECT_DIR$/html5新增标签/02html5中的语义标签.html" />
         <option value="$PROJECT_DIR$/html5新增标签/03html5中的语义标签兼容性.html" />
         <option value="$PROJECT_DIR$/html5新增标签/04HTML5表单的新增type属性.html" />
+        <option value="$PROJECT_DIR$/html5新增标签/05HTML5表单新增事件.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="843" />
-    <option name="width" value="522" />
+    <option name="x" value="840" />
+    <option name="width" value="525" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectView">
@@ -180,7 +104,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/html5新增标签" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
@@ -217,7 +141,8 @@
       <updated>1560521948912</updated>
       <workItem from="1560521950101" duration="892000" />
       <workItem from="1560523025983" duration="558000" />
-      <workItem from="1560562312203" duration="10278000" />
+      <workItem from="1560562312203" duration="14162000" />
+      <workItem from="1560690900377" duration="1858000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560522205854</created>
@@ -247,16 +172,24 @@
       <option name="project" value="LOCAL" />
       <updated>1560667557910</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1560667810132</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560667810132</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11728000" />
+    <option name="totallyTimeSpent" value="17470000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="843" y="0" width="522" height="728" extended-state="0" />
+    <frame x="840" y="0" width="525" height="728" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.48347107" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.48347107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -313,15 +246,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html5新增标签/03html5中的语义标签兼容性.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="374">
           <caret line="17" selection-start-line="17" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html5新增标签/04HTML5表单的新增type属性.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="440">
+          <caret line="71" column="7" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html5新增标签/05HTML5表单新增事件.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
         </state>
       </provider>
     </entry>

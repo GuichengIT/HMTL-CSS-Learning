@@ -5,7 +5,7 @@
     <title>HYML5中新增的比表单type属性</title>
 </head>
 <body>
-<form action="">
+<form action="" id="myForm">
     用户名：<input type="text" name="userName"><br>
     密码：<input type="password"><br>
 <!--    email提供了默认的电子邮箱的完整验证，要求必须包含@符号同时必须包含服务器的名称，
@@ -40,9 +40,33 @@ max,min,value-->
     月份：<input type="month"><br>
 <!--    week-->
     星期：<input type="week"><br>
+<!--    placeholder:提示文本，提示占位，和之前用value
+提示相比优点是不占字符，以前想输入必须先将以前的删掉，而且用value
+刷新之后就不存在了-->
+<!--    autofocud:自动获取焦点-->
+<!--    autocomplete：自动补全：on：打开 off：关闭
+有两个前提才能生效：
+1. 必须成功提交过：提交过才会有记录
+2. 添加autocomplete属性的当前元素必须具有name属性-->
+    用户名：<input type="text" name="userName" placeholder="请输入用户名" autofocus autocomplete="on">
+    <!--    tel:并不会实现验证，仅仅是在移动端弹出数字键盘-->
+<!--    required：必须输入-->
+<!--    pattern：正则表达式验证-->
+<!--    *：代表任意个
+         ？代表0个或1个
+         +代表1个或多个-->
+    手机号：<input type="tel" required pattern="^(\+86)?1\d{10}$"><br>
+<!--    multiple:可以同时选择多个文件-->
+    选择文件：<input type="file" multiple><br>
+<!--    email:包含默认的验证，multiple可以实现输入多个邮箱
+中间注意要用逗号分隔-->
+    多个邮箱：<input type="email" multiple><br>
     <!-- 提交-->
     <input type="submit"><br>
 </form>
-
+<!--    下面这个表单元素并没有包含在form中，默认情况下
+点击提交按钮时它并不会提交，但是我们可以给这个表单元素设置
+form属性的值并令其等于上面form元素的id属性的值,这样当form元素进行数据提交时，这个元素也会进行数据提交-->
+address：<input type="text" form="myForm"><br>
 </body>
 </html>
