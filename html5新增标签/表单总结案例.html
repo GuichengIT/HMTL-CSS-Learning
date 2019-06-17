@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表单总结案例</title>
+    <style>
+        * {
+            margin: 0;
+            padding:0;
+        }
+        form {
+            width: 600px;
+            margin:0 auto;
+        }
+        form fieldset {
+            /*padding-left:10px;*/
+            /*padding-right:10px;*/
+            padding: 10px;
+            /*background-color: pink;*/
+        }
+        form fieldset meter,
+        form fieldset input {
+            width: 100%;
+            border:none;
+            border:1px solid #ccc;
+            height: 40px;
+            line-height: 40px;
+            border-radius:6px;
+            padding-left:10px;
+            font-size: 16px;
+            box-sizing: border-box;
+            margin: 10px 0;
+        }
+        form fieldset meter {
+            padding-left: 0;
+        }
+
+    </style>
+</head>
+<body>
+<form action="">
+    <fieldset>
+        <legend>学生档案</legend>
+        <label for="userName">姓名：</label>
+        <input type="text" name="userName" id="userName" placeholder=
+                "请输入用户名">
+        <label for="tel">手机号码</label>
+        <input type="tel" id="tel" pattern="^1/d{10}$">
+        <label for="email">邮箱地址：</label>
+        <input type="email" id="email">
+        <label for="institute">所属学院</label>
+        <input type="text" id="institute" list="list" placeholder="请选择">
+        <datalist id="list">
+            <option value="Java学院"></option>
+            <option value="前端与移动开发学院"></option>
+            <option value="C++学院"></option>
+        </datalist>
+        <label for="grade">入学成绩：</label>
+        <input type="number" id="grade" max="100" min="0" value="0">
+        <label for="level">基础水平</label>
+        <meter id="level" max="100" min="0" value="0" high="90"
+        low="59"></meter>
+        <label for="joinDate">入学日期</label>
+        <input type="date" id="joinDate">
+        <label for="levelDate">毕业日期</label>
+        <input type="date" id="levelDate">
+
+        <input type="submit">
+    </fieldset>
+</form>
+
+<script>
+    document.getElementById("grade").oninput= function(){
+        document.getElementById("level").value = this.value;
+    }
+</script>
+
+</body>
+</html>
