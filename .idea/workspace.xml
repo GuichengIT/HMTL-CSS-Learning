@@ -2,9 +2,236 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc09031e-560f-4782-a6ea-a624eae259c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/html5新增标签/05HTML5表单新增事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/01 类名选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/02 id选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/03 通配符选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/04 综合案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/05 字体连写.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/06 文本修饰.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/07 开发者工具.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/08 后代选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/09 子代选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/10 后代子代选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/11 交集选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/12 并集选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/13 伪类链接.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/14 实际开发中的伪类链接.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/15 测试题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/16 sublime快捷.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/17 元素的显示模式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/18 显示模式转换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/19 课堂练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/21 交集选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/22 魔兽.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/23 背景半透明.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/24 盒子模型之边框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/25 表单边框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/26 表格细线边框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/27 内边距.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/28 新浪导航.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/29 内边距问题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/30 内边距问题2计算.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/31 大小盒子.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/32 新闻列表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/33 书写规范.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/34 注意点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/35 行高.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/36 层叠性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/37 继承性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/38 优先级.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/39 权重计算.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/40 继承的权重为0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/41 背景.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/42 盒子水平居中.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/43 外边距合并.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/44 外边距塌陷.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/45 盒子默认宽度.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/46 圆角边框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/47 圆角案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/48 盒子阴影.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/49 体会浮动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/50 浮动特性-父盒子.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/51 浮动特性-对齐.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/52 浮动有隐藏模式转换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/53 一列固定宽度且居中.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/54 通栏结构.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/55 左右型结构.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/56 为什么清除浮动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/57 额外标签法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/58 overflow 清除浮动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/59 after伪元素清除浮动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/60 双伪元素清除浮动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/61 相对定位.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/62 绝对定位.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/63 父亲没定位.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/64 父亲有定位.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/65 哈根达斯.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/66 2个小问题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/67 定位的盒子居中对齐.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/68 顺丰.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/69 淘宝轮播图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/70 固定定位.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/71 固定广告案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/72 定位模式转换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/73 z-index叠放次序.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/73 一个有意思的例子.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/74 显示与隐藏.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/75 仿土豆显示透明盒子.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/76 溢出隐藏.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/77 鼠标样式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/78 轮廓线.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/79 vertical-align你要知道.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/80 溢出文字省略号.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/81  精灵图使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/82 拼出自己名字.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/83 滑动门.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/84 微信滑动门.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/85 字体图标引用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS1-2/86 行高不带单位.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/css权重练习/CSS优先级第1题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/css权重练习/CSS优先级第2题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/css权重练习/CSS优先级第3题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/css权重练习/CSS优先级第4题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/css权重练习/CSS优先级第5题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/css权重练习/CSS优先级第6题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/sohu/images/_notes/header_r_bg.jpg.mno" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/sohu/images/_notes/img1.jpg.mno" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/sohu/images/_notes/img2.jpg.mno" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/sohu/images/_notes/logo.jpg.mno" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/sohu/images/header_r_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/sohu/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/sohu/images/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/sohu/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/sohu/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/sohu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/五彩导航/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/五彩导航/images/bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/五彩导航/images/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/五彩导航/images/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/五彩导航/images/bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/五彩导航/images/bg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/五彩导航/images/bg5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/五彩导航/images/bg6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/五彩导航/images/bg7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/导航栏/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/导航栏/images/bgc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/导航栏/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/导航栏1/images/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/导航栏1/images/banner_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/导航栏1/images/button1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/导航栏1/images/button1_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/导航栏1/images/button2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/导航栏1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/微信滑动门/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/微信滑动门/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/微信滑动门/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/微信滑动门/images/abcd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/微信滑动门/images/ao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/微信滑动门/images/jd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/微信滑动门/images/mi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/微信滑动门/images/sp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/微信滑动门/images/to.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/微信滑动门/images/wx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/微信滑动门/微信滑动门导航.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/搜索框/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/搜索框/search_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/搜索趣图/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/搜索趣图/images/happy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/搜索趣图/images/square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/搜索趣图/images/sun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/搜索趣图/搜索趣图4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/新闻列表/images/bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/新闻列表/images/tb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/新闻列表/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/百度首页/img/QQ截图20131128165042.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/百度首页/img/bdlogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/百度首页/img/ic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/百度首页/文字部分.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/百度首页/百度一下，俺就知道.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/精灵图/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/精灵图/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/精灵图/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/精灵图/images/abcd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/精灵图/images/ao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/精灵图/images/jd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/精灵图/images/mi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/精灵图/images/sp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/精灵图/images/to.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/精灵图/images/wx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/精灵图/拼出自己的名字.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/鲁能/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/鲁能/文字.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSSmalLDemo/鲁能/鲁能.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML.5与CSS.3权威指南.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/上一级路径/html/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/上一级路径/timg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/下一级路径/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/下一级路径/images/timg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/同一级路径/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/同一级路径/timg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/images/arr.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/images/bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/images/bg9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/images/oldman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/images/sd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/images/t1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/images/t2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/images/t3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/images/t4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/images/t5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/images/t6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/images/ys.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/oldman.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/yesu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/圣诞节/文字部分.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/小说排行榜/deom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/小说排行榜/down.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/小说排行榜/images/down.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/小说排行榜/images/up.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/小说排行榜/up.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/忆江南/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/忆江南/images/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/忆江南/images/bg_greendot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/忆江南/小案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/忆江南/忆江南文字.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/春夏秋冬/chun.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/春夏秋冬/dong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/春夏秋冬/images/chun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/春夏秋冬/images/dong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/春夏秋冬/images/qiu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/春夏秋冬/images/xia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/春夏秋冬/qiu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/春夏秋冬/xia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/锚点连接/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/锚点连接/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/锚点连接/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/锚点连接/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/锚点连接/images/timg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/锚点连接/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/青春不常在/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/青春不常在/images/btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/青春不常在/images/ico1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/青春不常在/images/ico2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/青春不常在/images/ico3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/青春不常在/images/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/青春不常在/images/man.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/青春不常在/images/women.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLSmallDemo/青春不常在/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3CSchool.chm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web前端开发规范手册.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css2.0中文手册.chm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csss手册4.2.3.chm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html1-4/16 无语义化.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html1-4/17 有语义化.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html1-4/18 表格初识.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html1-4/19 合并单元格.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html1-4/20 input控件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html1-4/21 label标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html1-4/22 表单域.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html1-4/23 html版的样式.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5新增标签/04HTML5表单的新增type属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5新增标签/04HTML5表单的新增type属性.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,35 +243,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html5新增标签/03html5中的语义标签兼容性.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" selection-start-line="17" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html5新增标签/04HTML5表单的新增type属性.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="71" column="7" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html5新增标签/05HTML5表单新增事件.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,9 +270,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="840" />
-    <option name="width" value="525" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="501" />
+    <option name="y" value="11" />
+    <option name="width" value="670" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectView">
@@ -81,23 +281,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="HMTL-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HMTL-Learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HMTL-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HMTL-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="html5新增标签" type="462c0819:PsiDirectoryNode" />
+              <item name="HMTL-CSS-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HMTL-CSS-Learning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,6 +338,7 @@
       <workItem from="1560523025983" duration="558000" />
       <workItem from="1560562312203" duration="14162000" />
       <workItem from="1560690900377" duration="1858000" />
+      <workItem from="1560762491764" duration="641000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560522205854</created>
@@ -183,13 +379,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17470000" />
+    <option name="totallyTimeSpent" value="18111000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="840" y="0" width="525" height="728" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.48347107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22842261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -244,10 +439,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html5新增标签/03html5中的语义标签兼容性.html">
+    <entry file="file://$PROJECT_DIR$/html5新增标签/05HTML5表单新增事件.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="17" selection-end-line="18" />
+        <state relative-caret-position="88">
+          <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -258,10 +453,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html5新增标签/05HTML5表单新增事件.html">
+    <entry file="file://$PROJECT_DIR$/html5新增标签/03html5中的语义标签兼容性.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="18" />
         </state>
       </provider>
     </entry>
