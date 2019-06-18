@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML5多媒体标签</title>
+</head>
+<body>
+<!--插入视屏和音频的三种方式：-->
+<!--embed：直接插入视频文件，它的本质是调用本地安装的软件，有兼容性-->
+<!--flash插件的方式：需要安装flash，有两个缺点：1.需要先学习flash
+                                            2. 苹果设备不支持flash-->
+<!--HTML5增加的两个标签：audio和video-->
+
+<!--audio：音频-->
+<!--
+src:播放的音频文件的地址
+controls：音频播放器的控制面板，必须将这个写上才能看到控制器面板
+autoplay:自动播放
+loop：自动循环播放
+-->
+<audio src="music/我们很好%20-%20林俊杰(高品).mp3"  autoplay controls></audio>
+
+
+<!--vadeo:插入视频-->
+<!--
+hright：高度
+width：
+poster：当视频还没有完全下载，或者用户还没有点击播放按钮，默认显示当前视频的第一帧，也可以
+指定为指定的图片
+controls：播放控制面板
+注意事项：
+当设置宽高时，一般情况下只会设置宽度和高度，另一个会进行自动缩放，就算是同时设置了，视频也不会调整到
+设置的宽度和高度
+-->
+<!--
+重点说明一下source标签（注意是标签不是属性）的使用，因为不同浏览器支持的视频格式不同，所以我们可以准备多个格式的
+视频文件，让浏览器自动选择支持的格式。
+-->
+<!--<video src="mp4/bb.mp4" controls poster="images/l1.jpg" autoplay></video>-->
+<video  controls poster="images/l1.jpg" autoplay>
+    <source src="mp4/bb.flv" type="video/flv">
+    <source src="mp4/bb.mp4" type="video/mp4">
+</video>
+
+</body>
+</html>
